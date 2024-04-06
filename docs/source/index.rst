@@ -18,8 +18,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-   data_quality_dev01a
+   usage  
+   api  
+   data_quality_dev01a.ipynb  
 
 Lumache has its documentation hosted on Read the Docs.
