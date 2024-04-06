@@ -20,5 +20,6 @@ Contents
 
    usage
    api
+   data_quality_dev01a
 
 Lumache has its documentation hosted on Read the Docs.
